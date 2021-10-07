@@ -1,0 +1,38 @@
+﻿  Application.cpp
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\ShapeProperties.h(70,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(118,19): warning C4018: '>': signed/unsigned mismatch
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(144,19): warning C4018: '>': signed/unsigned mismatch
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(166,27): warning C4018: '<': signed/unsigned mismatch
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(169,23): warning C4018: '<': signed/unsigned mismatch
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(198,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(198,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(206,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(206,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(226,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(227,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(327,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(367,23): warning C4018: '<': signed/unsigned mismatch
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(387,79): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=GLdouble
+          ]
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(387,64): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=GLdouble
+          ]
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(387,49): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=GLdouble
+          ]
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(387,34): warning C4244: 'argument': conversion from '_Ty' to 'GLclampf', possible loss of data
+          with
+          [
+              _Ty=GLdouble
+          ]
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(389,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(395,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\dev\OpenGL\OpenGL_2\OpenGL_2\Application.cpp(402,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OpenGL_2.vcxproj -> D:\dev\OpenGL\OpenGL_2\Debug\OpenGL_2.exe
