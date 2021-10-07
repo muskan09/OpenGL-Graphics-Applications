@@ -1,0 +1,14 @@
+﻿  Application.cpp
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(21,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(53,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(53,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(55,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(56,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(91,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(92,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(133,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(133,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(164,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dev\OpenGL\OpenGL\OpenGL\src\Application.cpp(164,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenGL.vcxproj -> D:\dev\OpenGL\OpenGL\Debug\OpenGL.exe
